@@ -4,7 +4,7 @@ def open_file(file_path):
         return file_contents
 
 
-
+my changes
 def count_word(text):
     words = text.split()
     return len(words)

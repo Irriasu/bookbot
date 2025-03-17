@@ -3,7 +3,7 @@ def open_file(file_path):
         file_contents = f.read()
         return file_contents
 
-hey 12 123
+
 
 def count_word(text):
     words = text.split()
